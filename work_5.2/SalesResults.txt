@@ -1,0 +1,18 @@
+---------------------------------------------------
+Execution: 2024-02-08 15:19:18
+Product list file: .\TC1\TC1.ProductList.json
+Sales file: .\TC1\TC1.Sales.json
+Total: 2481.86
+Elapsed Time: 0.007171154022216797 seconds
+---------------------------------------------------
+Execution: 2024-02-08 15:22:00
+Product list file: .\TC2\TC1.ProductList.json
+Sales file: .\TC2\TC2.Sales.json
+Total: 166568.23
+Elapsed Time: 0.005126953125 seconds
+---------------------------------------------------
+Execution: 2024-02-08 15:22:38
+Product list file: .\TC3\TC1.ProductList.json
+Sales file: .\TC3\TC3.Sales.json
+Total: 165235.37
+Elapsed Time: 0.019006729125976562 seconds

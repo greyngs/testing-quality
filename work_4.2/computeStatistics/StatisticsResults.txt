@@ -1,0 +1,70 @@
+---------------------------------------------------
+Execution: 2024-02-03 17:40:09
+TC1.txt
+Count: 400
+Mean: 242.32
+Median: 239.5
+Mode: 170.0
+Standard Deviation: 145.44002062361477
+Variance: 21099.917599999997
+Elapsed Time: 0.015626192092895508 seconds
+---------------------------------------------------
+Execution: 2024-02-03 17:40:12
+TC2.txt
+Count: 1977
+Mean: 250.7840161861406
+Median: 247.0
+Mode: 230.0
+Standard Deviation: 144.2077946713822
+Variance: 20785.369132479238
+Elapsed Time: 0.04687333106994629 seconds
+---------------------------------------------------
+Execution: 2024-02-03 17:40:16
+TC3.txt
+Count: 12624
+Mean: 249.77621989860583
+Median: 249.0
+Mode: 94.0
+Standard Deviation: 145.32360576940644
+Variance: 21117.27747316329
+Elapsed Time: 1.2031283378601074 seconds
+---------------------------------------------------
+Execution: 2024-02-03 17:40:28
+TC4.txt
+Count: 12624
+Mean: 149.00267347908746
+Median: 147.75
+Mode: 123.75
+Standard Deviation: 130.4195852566302
+Variance: 17007.920843018837
+Elapsed Time: 1.2344214916229248 seconds
+---------------------------------------------------
+Execution: 2024-02-03 17:40:34
+TC5.txt
+Count: 307
+Mean: 241.49511400651465
+Median: 241.0
+Mode: 11.0
+Standard Deviation: 145.70234164786083
+Variance: 21160.021963097748
+Elapsed Time: 0.0 seconds
+---------------------------------------------------
+Execution: 2024-02-04 16:13:12
+TC6.txt
+Count: 3000
+Mean: 1.8790659927977473e+20
+Median: 1.88008049965543e+20
+Mode: #N/A
+Standard Deviation: 1.0739995165766761e+20
+Variance: 1.1530904699530647e+40
+Elapsed Time: 0.07663702964782715 seconds
+---------------------------------------------------
+Execution: 2024-02-04 16:13:27
+TC7.txt
+Count: 12767
+Mean: 2.474673954997149e+20
+Median: 2.4664097307429e+20
+Mode: #N/A
+Standard Deviation: 1.4461131060123312e+20
+Variance: 2.0910793147136484e+40
+Elapsed Time: 1.1930277347564697 seconds

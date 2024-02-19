@@ -1,0 +1,42 @@
+[
+    {
+        "customer_id": "123456",
+        "name": "Jorge Reyes",
+        "phone_number": "57-123-4567"
+    },
+    {
+        "customer_id": "654321",
+        "name": "Enrique Rayo",
+        "phone_number": "57-123-7890"
+    },
+    {
+        "customer_id": "123",
+        "name": "Jane Doe",
+        "phone_number": "555-987-6543"
+    },
+    {
+        "customer_id": "123",
+        "name": "Test Jorge",
+        "phone_number": "57-987-4321"
+    },
+    {
+        "customer_id": "123",
+        "name": "Jauanita",
+        "phone_number": "555-987-6543"
+    },
+    {
+        "customer_id": "123",
+        "name": "Test Jorge",
+        "phone_number": "57-987-4321"
+    },
+    {
+        "customer_id": "123",
+        "name": "Test Jorge",
+        "phone_number": "57-987-4321"
+    },
+    {
+        "customer_id": "123",
+        "name": "Test Jorge",
+        "phone_number": "57-987-4321"
+    }
+]

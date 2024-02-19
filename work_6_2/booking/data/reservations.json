@@ -1,0 +1,9 @@
+[
+    {
+        "reservation_code": "c08ed646-2fc2-4a94-ab4a-98d4878fc18d",
+        "customer_id": "123",
+        "hotel_name": "Hotel ABC",
+        "room": "3b",
+        "active": false
+    }
+]

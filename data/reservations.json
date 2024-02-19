@@ -1,0 +1,30 @@
+[
+    {
+        "reservation_code": "0e7384fa-32b1-4d54-bea7-d2261e10cd67",
+        "customer_id": "123",
+        "hotel_name": "Hotel ABC",
+        "room": "3b",
+        "active": true
+    },
+    {
+        "reservation_code": "434ceb88-c243-4de3-a141-3587ce3eb1cc",
+        "customer_id": "Test_Code",
+        "hotel_name": 123,
+        "room": "Test Hotel",
+        "active": true
+    },
+    {
+        "reservation_code": "4976d227-20fa-4eca-ada8-67efd3d53693",
+        "customer_id": "Test_Code",
+        "hotel_name": "123",
+        "room": 123,
+        "active": true
+    },
+    {
+        "reservation_code": "dd955c1c-3fb9-4b19-a5d4-9e839b6fa8bb",
+        "customer_id": 123,
+        "hotel_name": "123",
+        "room": "Test Hotel",
+        "active": true
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Hotel ABC",
+        "num_rooms": 150,
+        "ubication": "Nueva Ubicaci\u00f3n"
+    },
+    {
+        "name": "Test Hotel",
+        "num_rooms": 200,
+        "ubication": "New Location"
+    },
+    {
+        "name": "Test Hotel",
+        "num_rooms": 100,
+        "ubication": "Test Location"
+    }
+]
